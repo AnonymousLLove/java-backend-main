@@ -1,0 +1,20 @@
+roles:
+  data:
+    user:
+      id: user
+      name: ROLE_USER
+    manager:
+      id: manager
+      name: ROLE_MANAGER
+    developer:
+      id: developer
+      name: ROLE_DEVELOPER
+    admin:
+      id: admin
+      name: ROLE_ADMIN
+    postman:
+      id: postman
+      name: ROLE_POSTMAN
+    devsandbox:
+      id: devsandbox
+      name: ROLE_DEVSANDBOX
